@@ -32,7 +32,6 @@ public class Main {
                     System.out.println("Opa");
                 }
             };
-            System.out.println("Hello world!");
         } catch (Exception ex) {
             ex.printStackTrace();
         } finally {
